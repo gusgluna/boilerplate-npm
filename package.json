@@ -1,6 +1,6 @@
 {
+	"author": "gusgluna",
 	"name": "fcc-learn-npm-package-json",
-	"author": {"name":"gusgluna"},
         "version": "0.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
